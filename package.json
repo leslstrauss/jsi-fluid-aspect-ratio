@@ -1,0 +1,17 @@
+{
+  "name": "Fluid-Aspect-Ratio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "chai": "^1.9.2"
+  },
+  "devDependencies": {
+    "mocha": "^1.21.4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "MIT"
+}
